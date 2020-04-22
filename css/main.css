@@ -34,11 +34,6 @@ body {
   background-color: #e2e2e2;
 }
 
-.photo {
-  float: left;
-  width: 25%;
-}
-
 .info {
   float: right;
   width: 75%;
@@ -47,4 +42,9 @@ body {
 .details {
   float: left;
   width: 50%;
+}
+
+.photo {
+  float: left;
+  width: 25%;
 }
